@@ -10,37 +10,37 @@
 }
 
 .empty-item-1 {
-  box-shadow: 0, 0, 0;
+  box-shadow: 0 0 0;
   animation: box-1 12s infinite;
 }
 
 .empty-item-2 {
-  box-shadow: 0, 0, 0;
+  box-shadow: 0 0 0;
   animation: box-2 12s infinite;
 }
 
 .empty-item-3 {
-  box-shadow: 0, 0, 0;
+  box-shadow: 0 0 0;
   animation: box-3 12s infinite;
 }
 
 .empty-item-4 {
-  box-shadow: 0, 0, 0;
+  box-shadow: 0 0 0;
   animation: box-4 12s infinite;
 }
 
 .empty-item-5 {
-  box-shadow: 0, 0, 0;
+  box-shadow: 0 0 0;
   animation: box-5 12s infinite;
 }
 
 .empty-item-6 {
-  box-shadow: 0, 0, 0;
+  box-shadow: 0 0 0;
   animation: box-6 12s infinite;
 }
 
 .item-filled {
-  box-shadow: 0, 0, 0;
+  box-shadow: 0 0 0;
   animation: boxes 12s infinite;
 }
 
