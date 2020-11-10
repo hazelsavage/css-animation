@@ -1,5 +1,5 @@
-.text p {
-  display: block;
+.text {
+  padding: 5%;
   font-family: sans-serif;
   text-align: center;
 }
